@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de724e71f6273d2489c95acf908a8cac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Animator: {instanceID: 0}
+  - AttackPosition: {instanceID: 0}
+  - DamageText: {instanceID: 0}
+  - blood: {fileID: 1000012909287652, guid: abb9f519b142e304d9c45b56afa768bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

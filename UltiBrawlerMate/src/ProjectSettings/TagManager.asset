@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Fast
+  - Medium
+  - Slow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundFar
+    uniqueID: 1923040387
+    locked: 0
+  - name: Background
+    uniqueID: 1649544779
+    locked: 0
+  - name: Water
+    uniqueID: 757110937
+    locked: 0
+  - name: StageBack
+    uniqueID: 1780535933
+    locked: 0
+  - name: DeepWater
+    uniqueID: 989590927
+    locked: 0
+  - name: Coralls
+    uniqueID: 2372336619
+    locked: 0
+  - name: Algae
+    uniqueID: 2455065059
+    locked: 0
+  - name: RocksStage
+    uniqueID: 2291464933
+    locked: 0
+  - name: StageFront
+    uniqueID: 2614839257
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FrontFront
+    uniqueID: 810052077
+    locked: 0
