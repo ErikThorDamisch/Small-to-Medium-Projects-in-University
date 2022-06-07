@@ -1,4 +1,4 @@
-# Small-to-Medium-Projects-in-University
+# Small-Projects-in-Unity
 Small to Medium sized Projects I created in University.
 The Lonely Island was the first real Game i created.
 I uploaded all my Projects here to show my Progress throughout my study Period.
